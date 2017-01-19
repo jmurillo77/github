@@ -19,3 +19,7 @@ Para realizar la actualización
 # git add .
 # git commit -m 'Mensaje'
 # git push -u origin master
+
+Para cuando se realicen cambio directamente en el Github se tiene que ejecutar
+# git pull
+# git push
