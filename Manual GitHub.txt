@@ -1,0 +1,21 @@
+Como trabajar con GitHub
+
+En la WEB
+1.- Crear una cuenta en https://github.com/
+2.- Acceder a la Cuenta creada en github.com
+3.- Crear un repository (Repositorio)
+
+Localmente
+4.- Moverse a la carpeta de trabajo localmente
+
+Para crear el proyecto (1era Vez)
+# git init
+# git add .
+# git commit -m 'Mensaje'
+# git remote add origin https://github.com/jmurillo77/<proyectogithub>.git
+# git push -u origin master
+
+Para realizar la actualización
+# git add .
+# git commit -m 'Mensaje'
+# git push -u origin master
